@@ -1,7 +1,7 @@
 # prophet-challenge
 Module 8 Challenge: Google Colab
 
-**Name:** Module 8 Challenge: Data Sourcing Challenge
+**Name:** Module 8 Challenge: Profit
 
 **Description:** Utlizing colab and profit to predict MercadoLibre webtraffic trends. 
 
